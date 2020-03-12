@@ -1,0 +1,6 @@
+{
+  "locale": 1,
+  "development": 2,
+  "staging": 3,
+  "produzione": 4
+}
